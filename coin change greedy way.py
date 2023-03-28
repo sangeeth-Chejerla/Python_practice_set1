@@ -1,7 +1,4 @@
-"""wow this process is great ,greedy sure is good .
-haaha things get if i learn programming i guess even i dont thing i can solve in my second glance ,may i am getting better
-if solve everyday i might be good at this but i mind is the villan here.
-he always dragging me down and killing me inside with alll my misery on"""
+""""""
 
 def coin_change(total_number,coinlist):
     N = total_number
